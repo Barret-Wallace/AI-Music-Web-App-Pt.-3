@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    background-image: url("musicbg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.orangey{
+    background-color: orange;
+    margin-top: -20px;
+}
+canvas{
+    border: black dashed 2px;
+    box-shadow: 2px 1px 39px whitesmoke;
+}
